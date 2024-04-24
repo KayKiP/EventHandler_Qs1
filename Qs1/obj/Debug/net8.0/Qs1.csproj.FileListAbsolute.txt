@@ -1,0 +1,14 @@
+D:\Humber\NET012\Qs1\bin\Debug\net8.0\Qs1.exe
+D:\Humber\NET012\Qs1\bin\Debug\net8.0\Qs1.deps.json
+D:\Humber\NET012\Qs1\bin\Debug\net8.0\Qs1.runtimeconfig.json
+D:\Humber\NET012\Qs1\bin\Debug\net8.0\Qs1.dll
+D:\Humber\NET012\Qs1\bin\Debug\net8.0\Qs1.pdb
+D:\Humber\NET012\Qs1\obj\Debug\net8.0\Qs1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Humber\NET012\Qs1\obj\Debug\net8.0\Qs1.AssemblyInfoInputs.cache
+D:\Humber\NET012\Qs1\obj\Debug\net8.0\Qs1.AssemblyInfo.cs
+D:\Humber\NET012\Qs1\obj\Debug\net8.0\Qs1.csproj.CoreCompileInputs.cache
+D:\Humber\NET012\Qs1\obj\Debug\net8.0\Qs1.dll
+D:\Humber\NET012\Qs1\obj\Debug\net8.0\refint\Qs1.dll
+D:\Humber\NET012\Qs1\obj\Debug\net8.0\Qs1.pdb
+D:\Humber\NET012\Qs1\obj\Debug\net8.0\Qs1.genruntimeconfig.cache
+D:\Humber\NET012\Qs1\obj\Debug\net8.0\ref\Qs1.dll
